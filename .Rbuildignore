@@ -1,0 +1,17 @@
+## R CMD check results
+0 errors | 0 warnings | 0 notes
+
+## This is a new submission
+This package provides data leakage detection tools for machine learning workflows.
+^doc$
+^Meta$
+^CRAN-SUBMISSION$
+^cran-comments\.md$
+"^\.git$" 
+"^\.gitignore$" 
+"^\.Rproj\.user$" 
+"^\.Rhistory$" 
+"^\.RData$" 
+"^\.\.Rcheck$" 
+"^cran-comments\.md$" 
+"^\.git$" 
