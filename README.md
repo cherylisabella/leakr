@@ -1,11 +1,10 @@
-# leakr: Universal Data Leakage Detector for R  
+# leakr: Universal Data Leakage Detector for R  <img src="man/figures/leakr-hex.png" align="right" width="175" />
 
 [![CRAN version](https://www.r-pkg.org/badges/version/leakr)](https://CRAN.R-project.org/package=leakr)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Lifecycle: stable](https://img.shields.io/badge/lifecycle-stable-brightgreen.svg)](https://lifecycle.r-lib.org/articles/stages.html#stable)
 [![Total Downloads](https://cranlogs.r-pkg.org/badges/grand-total/leakr)](https://cran.r-project.org/package=leakr)
 [![Cite with Zenodo](http://img.shields.io/badge/DOI-10.5281/zenodo.1343417-1073c8?)](https://doi.org/10.5281/zenodo.17511513)
-
 
 A comprehensive R package for detecting and diagnosing data leakage in machine learning workflows.
 
